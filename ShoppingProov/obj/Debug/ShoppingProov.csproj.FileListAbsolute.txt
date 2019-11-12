@@ -1,0 +1,6 @@
+C:\Users\karvm\source\repos\ShoppingListy\ShoppingProov\bin\Debug\ShoppingProov.exe.config
+C:\Users\karvm\source\repos\ShoppingListy\ShoppingProov\bin\Debug\ShoppingProov.exe
+C:\Users\karvm\source\repos\ShoppingListy\ShoppingProov\bin\Debug\ShoppingProov.pdb
+C:\Users\karvm\source\repos\ShoppingListy\ShoppingProov\obj\Debug\ShoppingProov.csprojAssemblyReference.cache
+C:\Users\karvm\source\repos\ShoppingListy\ShoppingProov\obj\Debug\ShoppingProov.exe
+C:\Users\karvm\source\repos\ShoppingListy\ShoppingProov\obj\Debug\ShoppingProov.pdb

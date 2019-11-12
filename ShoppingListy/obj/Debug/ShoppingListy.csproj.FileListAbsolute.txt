@@ -1,0 +1,6 @@
+C:\Users\karvm\source\repos\ShoppingListy\ShoppingListy\bin\Debug\ShoppingListy.exe.config
+C:\Users\karvm\source\repos\ShoppingListy\ShoppingListy\bin\Debug\ShoppingListy.exe
+C:\Users\karvm\source\repos\ShoppingListy\ShoppingListy\bin\Debug\ShoppingListy.pdb
+C:\Users\karvm\source\repos\ShoppingListy\ShoppingListy\obj\Debug\ShoppingListy.csprojAssemblyReference.cache
+C:\Users\karvm\source\repos\ShoppingListy\ShoppingListy\obj\Debug\ShoppingListy.exe
+C:\Users\karvm\source\repos\ShoppingListy\ShoppingListy\obj\Debug\ShoppingListy.pdb
